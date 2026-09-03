@@ -1,6 +1,6 @@
 # KBFarma – Vaccination Services Website
 
-Next.js 14 (App Router) + TypeScript + Tailwind CSS. UI design mockup (`desktop.png` / `small_devices.png`) k mutabiq 100% match banaya gaya hai — colors, spacing, cards, sab kuch component-wise.
+Next.js 14 (App Router) + TypeScript + Tailwind CSS. UI design mockup (`desktop.png` / `small_devices.png`) k mutabiq 100% match banaya gaya hai colors, spacing, cards, sab kuch component-wise.
 
 ## Setup
 
